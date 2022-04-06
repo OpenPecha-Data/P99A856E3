@@ -1,0 +1,47 @@
+id: P99A856E3
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG07606
+  instance_id: http://purl.bdrc.io/resource/IE00KG07606
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། ཆོས་དབྱིངས་རང་གྲོལ།
+  alt_title:
+    en-x-mixed:
+    - Gʹyu-khog Bla-ma Bya-bral Chos-dbyiṅs-raṅ-grol gyi gsuṅ ʼbum bźugs.
+    zh-latn-pinyin-x-ndia:
+    - yu kuo qu yong zhuo quan ji
+  author: http://purl.bdrc.io/resource/P00KG07607
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    031e4d39042b44c392213b319c606698:
+      title: པོད ༢་གསུང་འབུམ། ཆོས་དབྱིངས་རང་གྲོལ
+      volume_number: 2
+      base_file: UT00KG07606_I00KG07640_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBE7016C63C2B0C8D
+      image_group: I00KG07640
+      quality: Low
+    42535c559bbf4c1b83467b674ef030ea:
+      title: པོད ༡་གསུང་འབུམ། ཆོས་དབྱིངས་རང་གྲོལ
+      volume_number: 1
+      base_file: UT00KG07606_I00KG07639_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD0BAF3E57EAADB84
+      image_group: I00KG07639
+      quality: Low
+    9a1ac31daf694045a0ce9a117256f2fb:
+      title: པོད ༣་གསུང་འབུམ། ཆོས་དབྱིངས་རང་གྲོལ
+      volume_number: 3
+      base_file: UT00KG07606_I00KG07641_0000.txt
+      reference: http://purl.bdrc.io/resource/VL02B176DCF1446713
+      image_group: I00KG07641
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW00KG07606
+  - http://purl.bdrc.io/resource/W00KG07606
+  ocr_software: Namsel
+created_at: '2021-12-22T10:17:07.346136'
+last_modified_at: '2021-12-22T10:17:07.346143'
